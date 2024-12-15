@@ -420,10 +420,12 @@ p {
 	background-color: var(--background);
 	border-radius: 8px;
 	overflow: hidden;
+	width:fit-content;
 }
 
 .profile-card .image img {
 	margin-top: 10px;
+	width:fit-content;
 }
 
 .profile-card .text {
