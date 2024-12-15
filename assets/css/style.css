@@ -401,7 +401,10 @@ p {
 ===============================*/
 
 .home-area {
-	margin-top: 2px;
+	margin-top: 24px;
+}
+.main{
+	margin-top:2px:
 }
 
 .card {
@@ -414,6 +417,7 @@ p {
 
 .card-body {
 	padding: 24px;
+	margin:0px;
 }
 
 .profile-card .image {
